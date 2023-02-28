@@ -3,6 +3,7 @@
 - This is a classification problem with highly unbalanced dataset. 
 - The dataset contains 492 fraud transactions out of total 284,807 transactions.
 - The positive class (fraud transactions) account for only 0.172% of all the transactions.
+- The dataset includes 30 features.
 
 ### Key learning from this project
 - Area Under the Precision-Recall Curve (AUPRC) should be used instead of the ROC curve for model selection.
