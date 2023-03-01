@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 
 - This is a classification problem with highly unbalanced dataset. 
 - The dataset contains 492 fraud transactions out of total 284,807 transactions.
